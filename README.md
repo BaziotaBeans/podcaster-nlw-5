@@ -9,7 +9,7 @@
 - [Technologies](#computer-technologies)
 - [Features](#rocket-features)
 - [How to run](#construction_worker-how-to-run)
-- [How we can increase that project?](#rotating_light)
+- [How we can increase that project?](#rotating_light-how-we-can-increase-that-project?)
 - [Issues](#heart_eyes-issues)
 - [License](#closed_book-license)
 ## :fire: Instructor
