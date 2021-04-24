@@ -32,7 +32,7 @@ It is a system that provides some podcast content of rocketseat...
 
 ```
 # Clone
-$ git clone https://github.com/BaziotaBeans/Proffy.git
+$ git clone https://github.com/BaziotaBeans/podcaster-nlw-5.git
 ```
 
 💻 Run Project
