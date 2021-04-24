@@ -9,6 +9,7 @@
 - [Technologies](#computer-technologies)
 - [Features](#rocket-features)
 - [How to run](#construction_worker-how-to-run)
+- [How we can increase that project?](barber)
 - [Issues](#heart_eyes-issues)
 - [License](#closed_book-license)
 ## :fire: Instructor
@@ -50,7 +51,7 @@ $ npm run server
 Go to your browser's address and write the follow address: 
 localhost:3000, after that, the application will run...
 
-## How we can increase that project?
+## :barber: How we can increase that project?
 - Add Responsivity
 - Add PWA
 - Add Dark Theme 
