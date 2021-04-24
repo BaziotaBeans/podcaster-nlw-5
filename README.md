@@ -23,6 +23,8 @@ It is a system that provides some podcast content of rocketseat...
 - [React](https://reactjs.org/)
 - [Next.js](https://nextjs.org/)
 - [NodeJS](https://nodejs.org/en/)
+- [Sass](https://sass-lang.com/)
+- [Typescript](https://www.typescriptlang.org/)
 
 ## :rocket: Features
 - App to listen some podcast 
